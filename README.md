@@ -2,7 +2,9 @@
 
 Długoterminowe logowanie danych
 pogodowych oraz danych o produkcji,
-eksporcie i imporcie energii elektrycznej
+eksporcie i imporcie energii elektrycznej.
+
+Stanowiska komunikują się między sobą przez protokuł mqtt wysyłając wiadomości do brokera mosquitto.
 
 ## Stanowisko C1
 Odczyt danych pogodowych (temperatura, nasłonecznienie, wiatr) z
