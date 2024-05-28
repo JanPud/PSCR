@@ -1,0 +1,5 @@
+﻿  ApiCall.cpp
+D:\STUDIA\SEMESTR 8\PSCR_proj\PSCR\PSCR_C1\ApiCall.cpp(126,50): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  PSCR_C1.vcxproj -> D:\STUDIA\SEMESTR 8\PSCR_proj\PSCR\x64\Debug\PSCR_C1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
