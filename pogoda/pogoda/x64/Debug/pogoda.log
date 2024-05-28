@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\Wiktor\source\repos\pogoda\pogoda\main.cpp(71,79): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
-  pogoda.vcxproj -> C:\Users\Wiktor\source\repos\pogoda\x64\Debug\pogoda.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
